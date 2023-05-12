@@ -1,0 +1,3 @@
+[submodule "childs/test-git-history-child"]
+	path = childs/test-git-history-child
+	url = https://github.com/pularbacc/test-git-history-child.git
